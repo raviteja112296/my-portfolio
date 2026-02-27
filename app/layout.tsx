@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   },
   description: "Portfolio of a Full-Stack Mobile Developer specializing in Flutter, React, and Scalable App Architectures. View my ride-booking and directory app projects.",
   keywords: [
+    "Chintamani app developer",
+    "Mokshabani",
+    "Raviteja",
     "Flutter Developer", 
     "React Developer", 
     "Freelance App Developer", 
