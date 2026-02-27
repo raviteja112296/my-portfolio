@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     "UI/UX Design"
   ],
   verification: {
-    google: "Y8vvHfWZzU2uWm-GeEDzQoBQvAkp4ia0CQqcSGw2TZg",
+    google: "bnx4AMipkunjYmGrQFYxb3pZ7WhgEIvy6IFZYY6-rMA",
   },
   authors: [{ name: "Raviteja" }],
   openGraph: {
