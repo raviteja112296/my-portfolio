@@ -23,6 +23,9 @@ export const metadata: Metadata = {
     "Andhra Pradesh Developer", // Local SEO helps you rank faster
     "UI/UX Design"
   ],
+  verification: {
+    google: "Y8vvHfWZzU2uWm-GeEDzQoBQvAkp4ia0CQqcSGw2TZg",
+  },
   authors: [{ name: "Raviteja" }],
   openGraph: {
     title: "Raviteja - Mobile & Web Developer",
